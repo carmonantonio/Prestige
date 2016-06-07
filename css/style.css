@@ -326,6 +326,11 @@ p {
 .fh5co-main-nav .fh5co-menu-1 {
   text-align: right;
   width: 40.33%;
+  position: relative;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(50%);
 }
 .fh5co-main-nav .fh5co-menu-1 a {
   vertical-align: middle;
@@ -346,6 +351,11 @@ p {
 .fh5co-main-nav .fh5co-menu-2 {
   text-align: left;
   width: 40.33%;
+  position: relative;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(50%);
 }
 
 .fh5co-heading .heading {
