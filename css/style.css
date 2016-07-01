@@ -413,7 +413,7 @@ p {
 }
 #fh5co-about .fh5co-text {
   padding: 2em 6em;
-  text-align: left;
+  text-align: justify;
   background: #130d08 url(../images/wood_1.png) repeat;
 }
 @media screen and (max-width: 1200px) {
@@ -548,7 +548,8 @@ p {
 
 #fh5co-featured {
   padding: 7em 0;
-  background: #130d08 url(../images/bodega2.jpg) repeat;
+  background: #130d08 url(../images/bodega5.jpg) repeat;
+    background-size: cover;
 }
 @media screen and (max-width: 768px) {
   #fh5co-featured {
